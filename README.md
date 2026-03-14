@@ -1,16 +1,17 @@
-## Hi there 👋
+# Halo, Saya Willfan Prayoga 👋
 
-<!--
-**WillfanPrayoga/WillfanPrayoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang **Mobile Developer** & **UI/UX Enthusiast** yang berfokus pada pembangunan aplikasi yang tidak hanya fungsional, tapi juga memiliki pengalaman pengguna yang bermakna. Saat ini sedang mendalami ekosistem Flutter dan desain berbasis data.
 
-Here are some ideas to get you started:
+### 💡 Yang Sedang Saya Kerjakan
+* 📱 Mengembangkan **Glucare** – Aplikasi edukasi kesehatan berbasis Flutter.
+* 🎨 Mengeksplorasi implementasi **UX Laws** dalam desain interface aplikasi lokal.
+* 🌐 Bereksperimen dengan real-time communication menggunakan **Socket.io**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+
+### 📊 GitHub Stats
+![Statistik Willfan](https://github-readme-stats.vercel.app/api?username=WillfanPrayoga&show_icons=true&theme=tokyonight)
+
+---
+*Enggo Rakut.* Membangun solusi digital dengan semangat Neo-Nusantara.
